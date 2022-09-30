@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApplication1</name>
+    </assembly>
+    <members>
+        <member name="M:WebApplication1.Controllers.UsuarioController.Logar(WebApplication1.Models.Usuarios.LoginViewModelInput)">
+            <summary>
+            teste    
+             </summary>
+             <param name="loginViewModelInput"></param>
+             <returns></returns>
+        </member>
+    </members>
+</doc>

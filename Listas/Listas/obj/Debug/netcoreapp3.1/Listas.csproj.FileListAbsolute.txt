@@ -1,0 +1,11 @@
+D:\Users\lucas.lara\source\repos\Listas\Listas\bin\Debug\netcoreapp3.1\Listas.exe
+D:\Users\lucas.lara\source\repos\Listas\Listas\bin\Debug\netcoreapp3.1\Listas.deps.json
+D:\Users\lucas.lara\source\repos\Listas\Listas\bin\Debug\netcoreapp3.1\Listas.runtimeconfig.json
+D:\Users\lucas.lara\source\repos\Listas\Listas\bin\Debug\netcoreapp3.1\Listas.runtimeconfig.dev.json
+D:\Users\lucas.lara\source\repos\Listas\Listas\bin\Debug\netcoreapp3.1\Listas.dll
+D:\Users\lucas.lara\source\repos\Listas\Listas\bin\Debug\netcoreapp3.1\Listas.pdb
+D:\Users\lucas.lara\source\repos\Listas\Listas\obj\Debug\netcoreapp3.1\Listas.csprojAssemblyReference.cache
+D:\Users\lucas.lara\source\repos\Listas\Listas\obj\Debug\netcoreapp3.1\Listas.AssemblyInfoInputs.cache
+D:\Users\lucas.lara\source\repos\Listas\Listas\obj\Debug\netcoreapp3.1\Listas.AssemblyInfo.cs
+D:\Users\lucas.lara\source\repos\Listas\Listas\obj\Debug\netcoreapp3.1\Listas.dll
+D:\Users\lucas.lara\source\repos\Listas\Listas\obj\Debug\netcoreapp3.1\Listas.pdb

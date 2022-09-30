@@ -1,0 +1,11 @@
+D:\Users\lucas.lara\source\repos\Calculaor\Calculaor\bin\Debug\netcoreapp3.1\Calculaor.exe
+D:\Users\lucas.lara\source\repos\Calculaor\Calculaor\bin\Debug\netcoreapp3.1\Calculaor.deps.json
+D:\Users\lucas.lara\source\repos\Calculaor\Calculaor\bin\Debug\netcoreapp3.1\Calculaor.runtimeconfig.json
+D:\Users\lucas.lara\source\repos\Calculaor\Calculaor\bin\Debug\netcoreapp3.1\Calculaor.runtimeconfig.dev.json
+D:\Users\lucas.lara\source\repos\Calculaor\Calculaor\bin\Debug\netcoreapp3.1\Calculaor.dll
+D:\Users\lucas.lara\source\repos\Calculaor\Calculaor\bin\Debug\netcoreapp3.1\Calculaor.pdb
+D:\Users\lucas.lara\source\repos\Calculaor\Calculaor\obj\Debug\netcoreapp3.1\Calculaor.csprojAssemblyReference.cache
+D:\Users\lucas.lara\source\repos\Calculaor\Calculaor\obj\Debug\netcoreapp3.1\Calculaor.AssemblyInfoInputs.cache
+D:\Users\lucas.lara\source\repos\Calculaor\Calculaor\obj\Debug\netcoreapp3.1\Calculaor.AssemblyInfo.cs
+D:\Users\lucas.lara\source\repos\Calculaor\Calculaor\obj\Debug\netcoreapp3.1\Calculaor.dll
+D:\Users\lucas.lara\source\repos\Calculaor\Calculaor\obj\Debug\netcoreapp3.1\Calculaor.pdb

@@ -1,0 +1,11 @@
+D:\Users\lucas.lara\source\repos\link\link\bin\Debug\netcoreapp3.1\link.exe
+D:\Users\lucas.lara\source\repos\link\link\bin\Debug\netcoreapp3.1\link.deps.json
+D:\Users\lucas.lara\source\repos\link\link\bin\Debug\netcoreapp3.1\link.runtimeconfig.json
+D:\Users\lucas.lara\source\repos\link\link\bin\Debug\netcoreapp3.1\link.runtimeconfig.dev.json
+D:\Users\lucas.lara\source\repos\link\link\bin\Debug\netcoreapp3.1\link.dll
+D:\Users\lucas.lara\source\repos\link\link\bin\Debug\netcoreapp3.1\link.pdb
+D:\Users\lucas.lara\source\repos\link\link\obj\Debug\netcoreapp3.1\link.csprojAssemblyReference.cache
+D:\Users\lucas.lara\source\repos\link\link\obj\Debug\netcoreapp3.1\link.AssemblyInfoInputs.cache
+D:\Users\lucas.lara\source\repos\link\link\obj\Debug\netcoreapp3.1\link.AssemblyInfo.cs
+D:\Users\lucas.lara\source\repos\link\link\obj\Debug\netcoreapp3.1\link.dll
+D:\Users\lucas.lara\source\repos\link\link\obj\Debug\netcoreapp3.1\link.pdb

@@ -1,0 +1,10 @@
+D:\Users\lucas.lara\source\repos\HoraAtual\HoraAtual\bin\Debug\netcoreapp3.1\HoraAtual.exe
+D:\Users\lucas.lara\source\repos\HoraAtual\HoraAtual\bin\Debug\netcoreapp3.1\HoraAtual.deps.json
+D:\Users\lucas.lara\source\repos\HoraAtual\HoraAtual\bin\Debug\netcoreapp3.1\HoraAtual.runtimeconfig.json
+D:\Users\lucas.lara\source\repos\HoraAtual\HoraAtual\bin\Debug\netcoreapp3.1\HoraAtual.runtimeconfig.dev.json
+D:\Users\lucas.lara\source\repos\HoraAtual\HoraAtual\bin\Debug\netcoreapp3.1\HoraAtual.dll
+D:\Users\lucas.lara\source\repos\HoraAtual\HoraAtual\bin\Debug\netcoreapp3.1\HoraAtual.pdb
+D:\Users\lucas.lara\source\repos\HoraAtual\HoraAtual\obj\Debug\netcoreapp3.1\HoraAtual.AssemblyInfoInputs.cache
+D:\Users\lucas.lara\source\repos\HoraAtual\HoraAtual\obj\Debug\netcoreapp3.1\HoraAtual.AssemblyInfo.cs
+D:\Users\lucas.lara\source\repos\HoraAtual\HoraAtual\obj\Debug\netcoreapp3.1\HoraAtual.dll
+D:\Users\lucas.lara\source\repos\HoraAtual\HoraAtual\obj\Debug\netcoreapp3.1\HoraAtual.pdb

@@ -1,0 +1,11 @@
+D:\Users\lucas.lara\source\repos\funcoes\funcoes\bin\Debug\netcoreapp3.1\funcoes.exe
+D:\Users\lucas.lara\source\repos\funcoes\funcoes\bin\Debug\netcoreapp3.1\funcoes.deps.json
+D:\Users\lucas.lara\source\repos\funcoes\funcoes\bin\Debug\netcoreapp3.1\funcoes.runtimeconfig.json
+D:\Users\lucas.lara\source\repos\funcoes\funcoes\bin\Debug\netcoreapp3.1\funcoes.runtimeconfig.dev.json
+D:\Users\lucas.lara\source\repos\funcoes\funcoes\bin\Debug\netcoreapp3.1\funcoes.dll
+D:\Users\lucas.lara\source\repos\funcoes\funcoes\bin\Debug\netcoreapp3.1\funcoes.pdb
+D:\Users\lucas.lara\source\repos\funcoes\funcoes\obj\Debug\netcoreapp3.1\funcoes.csprojAssemblyReference.cache
+D:\Users\lucas.lara\source\repos\funcoes\funcoes\obj\Debug\netcoreapp3.1\funcoes.AssemblyInfoInputs.cache
+D:\Users\lucas.lara\source\repos\funcoes\funcoes\obj\Debug\netcoreapp3.1\funcoes.AssemblyInfo.cs
+D:\Users\lucas.lara\source\repos\funcoes\funcoes\obj\Debug\netcoreapp3.1\funcoes.dll
+D:\Users\lucas.lara\source\repos\funcoes\funcoes\obj\Debug\netcoreapp3.1\funcoes.pdb

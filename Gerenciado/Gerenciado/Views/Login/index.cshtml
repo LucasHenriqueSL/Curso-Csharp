@@ -1,0 +1,24 @@
+﻿@model Gerenciado.Models.UserViewModel
+
+
+@{ 
+    Layout = null;
+
+}
+
+<link href="~/Content/login.css" rel="stylesheet" />
+
+<section>
+    <h1>Autenticação</h1>
+
+    <form action="/" method="post">
+        <input type="text" name="email" value="" placeholder="Usuário" />
+        <input type="password" name="password" value="" placeholder="Senha" />
+         
+        <a href="#">Esqueci minha senha</a>
+
+        <button>Login</button>
+    </form>
+
+    <label>Não tem conta ?</label><a href="#">Crie aqui!</a>
+</section> 

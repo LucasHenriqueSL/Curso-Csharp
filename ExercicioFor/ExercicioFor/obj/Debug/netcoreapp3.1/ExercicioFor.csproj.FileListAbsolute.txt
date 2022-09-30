@@ -1,0 +1,11 @@
+D:\Users\lucas.lara\source\repos\ExercicioFor\ExercicioFor\bin\Debug\netcoreapp3.1\ExercicioFor.exe
+D:\Users\lucas.lara\source\repos\ExercicioFor\ExercicioFor\bin\Debug\netcoreapp3.1\ExercicioFor.deps.json
+D:\Users\lucas.lara\source\repos\ExercicioFor\ExercicioFor\bin\Debug\netcoreapp3.1\ExercicioFor.runtimeconfig.json
+D:\Users\lucas.lara\source\repos\ExercicioFor\ExercicioFor\bin\Debug\netcoreapp3.1\ExercicioFor.runtimeconfig.dev.json
+D:\Users\lucas.lara\source\repos\ExercicioFor\ExercicioFor\bin\Debug\netcoreapp3.1\ExercicioFor.dll
+D:\Users\lucas.lara\source\repos\ExercicioFor\ExercicioFor\bin\Debug\netcoreapp3.1\ExercicioFor.pdb
+D:\Users\lucas.lara\source\repos\ExercicioFor\ExercicioFor\obj\Debug\netcoreapp3.1\ExercicioFor.csprojAssemblyReference.cache
+D:\Users\lucas.lara\source\repos\ExercicioFor\ExercicioFor\obj\Debug\netcoreapp3.1\ExercicioFor.AssemblyInfoInputs.cache
+D:\Users\lucas.lara\source\repos\ExercicioFor\ExercicioFor\obj\Debug\netcoreapp3.1\ExercicioFor.AssemblyInfo.cs
+D:\Users\lucas.lara\source\repos\ExercicioFor\ExercicioFor\obj\Debug\netcoreapp3.1\ExercicioFor.dll
+D:\Users\lucas.lara\source\repos\ExercicioFor\ExercicioFor\obj\Debug\netcoreapp3.1\ExercicioFor.pdb

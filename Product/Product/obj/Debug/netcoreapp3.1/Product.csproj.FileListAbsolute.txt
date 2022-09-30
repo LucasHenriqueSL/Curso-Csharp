@@ -1,0 +1,11 @@
+D:\Users\lucas.lara\source\repos\Product\Product\bin\Debug\netcoreapp3.1\Product.exe
+D:\Users\lucas.lara\source\repos\Product\Product\bin\Debug\netcoreapp3.1\Product.deps.json
+D:\Users\lucas.lara\source\repos\Product\Product\bin\Debug\netcoreapp3.1\Product.runtimeconfig.json
+D:\Users\lucas.lara\source\repos\Product\Product\bin\Debug\netcoreapp3.1\Product.runtimeconfig.dev.json
+D:\Users\lucas.lara\source\repos\Product\Product\bin\Debug\netcoreapp3.1\Product.dll
+D:\Users\lucas.lara\source\repos\Product\Product\bin\Debug\netcoreapp3.1\Product.pdb
+D:\Users\lucas.lara\source\repos\Product\Product\obj\Debug\netcoreapp3.1\Product.csprojAssemblyReference.cache
+D:\Users\lucas.lara\source\repos\Product\Product\obj\Debug\netcoreapp3.1\Product.AssemblyInfoInputs.cache
+D:\Users\lucas.lara\source\repos\Product\Product\obj\Debug\netcoreapp3.1\Product.AssemblyInfo.cs
+D:\Users\lucas.lara\source\repos\Product\Product\obj\Debug\netcoreapp3.1\Product.dll
+D:\Users\lucas.lara\source\repos\Product\Product\obj\Debug\netcoreapp3.1\Product.pdb

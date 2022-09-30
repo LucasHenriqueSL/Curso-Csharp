@@ -1,0 +1,11 @@
+D:\Users\lucas.lara\source\repos\ifElse\ifElse\bin\Debug\netcoreapp3.1\ifElse.exe
+D:\Users\lucas.lara\source\repos\ifElse\ifElse\bin\Debug\netcoreapp3.1\ifElse.deps.json
+D:\Users\lucas.lara\source\repos\ifElse\ifElse\bin\Debug\netcoreapp3.1\ifElse.runtimeconfig.json
+D:\Users\lucas.lara\source\repos\ifElse\ifElse\bin\Debug\netcoreapp3.1\ifElse.runtimeconfig.dev.json
+D:\Users\lucas.lara\source\repos\ifElse\ifElse\bin\Debug\netcoreapp3.1\ifElse.dll
+D:\Users\lucas.lara\source\repos\ifElse\ifElse\bin\Debug\netcoreapp3.1\ifElse.pdb
+D:\Users\lucas.lara\source\repos\ifElse\ifElse\obj\Debug\netcoreapp3.1\ifElse.csprojAssemblyReference.cache
+D:\Users\lucas.lara\source\repos\ifElse\ifElse\obj\Debug\netcoreapp3.1\ifElse.AssemblyInfoInputs.cache
+D:\Users\lucas.lara\source\repos\ifElse\ifElse\obj\Debug\netcoreapp3.1\ifElse.AssemblyInfo.cs
+D:\Users\lucas.lara\source\repos\ifElse\ifElse\obj\Debug\netcoreapp3.1\ifElse.dll
+D:\Users\lucas.lara\source\repos\ifElse\ifElse\obj\Debug\netcoreapp3.1\ifElse.pdb

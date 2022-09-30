@@ -1,0 +1,11 @@
+D:\Users\lucas.lara\source\repos\DateTime\DateTime\bin\Debug\netcoreapp3.1\datetime.exe
+D:\Users\lucas.lara\source\repos\DateTime\DateTime\bin\Debug\netcoreapp3.1\datetime.deps.json
+D:\Users\lucas.lara\source\repos\DateTime\DateTime\bin\Debug\netcoreapp3.1\datetime.runtimeconfig.json
+D:\Users\lucas.lara\source\repos\DateTime\DateTime\bin\Debug\netcoreapp3.1\datetime.runtimeconfig.dev.json
+D:\Users\lucas.lara\source\repos\DateTime\DateTime\bin\Debug\netcoreapp3.1\datetime.dll
+D:\Users\lucas.lara\source\repos\DateTime\DateTime\bin\Debug\netcoreapp3.1\datetime.pdb
+D:\Users\lucas.lara\source\repos\DateTime\DateTime\obj\Debug\netcoreapp3.1\datetime.AssemblyInfoInputs.cache
+D:\Users\lucas.lara\source\repos\DateTime\DateTime\obj\Debug\netcoreapp3.1\datetime.AssemblyInfo.cs
+D:\Users\lucas.lara\source\repos\DateTime\DateTime\obj\Debug\netcoreapp3.1\datetime.dll
+D:\Users\lucas.lara\source\repos\DateTime\DateTime\obj\Debug\netcoreapp3.1\datetime.pdb
+D:\Users\lucas.lara\source\repos\DateTime\DateTime\obj\Debug\netcoreapp3.1\datetime.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\Users\lucas.lara\source\repos\Enumerações(enum)\Enumerações(enum)\bin\Debug\netcoreapp3.1\Enumerações(enum).exe
+D:\Users\lucas.lara\source\repos\Enumerações(enum)\Enumerações(enum)\bin\Debug\netcoreapp3.1\Enumerações(enum).deps.json
+D:\Users\lucas.lara\source\repos\Enumerações(enum)\Enumerações(enum)\bin\Debug\netcoreapp3.1\Enumerações(enum).runtimeconfig.json
+D:\Users\lucas.lara\source\repos\Enumerações(enum)\Enumerações(enum)\bin\Debug\netcoreapp3.1\Enumerações(enum).runtimeconfig.dev.json
+D:\Users\lucas.lara\source\repos\Enumerações(enum)\Enumerações(enum)\bin\Debug\netcoreapp3.1\Enumerações(enum).dll
+D:\Users\lucas.lara\source\repos\Enumerações(enum)\Enumerações(enum)\bin\Debug\netcoreapp3.1\Enumerações(enum).pdb
+D:\Users\lucas.lara\source\repos\Enumerações(enum)\Enumerações(enum)\obj\Debug\netcoreapp3.1\Enumerações(enum).csprojAssemblyReference.cache
+D:\Users\lucas.lara\source\repos\Enumerações(enum)\Enumerações(enum)\obj\Debug\netcoreapp3.1\Enumerações(enum).AssemblyInfoInputs.cache
+D:\Users\lucas.lara\source\repos\Enumerações(enum)\Enumerações(enum)\obj\Debug\netcoreapp3.1\Enumerações(enum).AssemblyInfo.cs
+D:\Users\lucas.lara\source\repos\Enumerações(enum)\Enumerações(enum)\obj\Debug\netcoreapp3.1\Enumerações(enum).dll
+D:\Users\lucas.lara\source\repos\Enumerações(enum)\Enumerações(enum)\obj\Debug\netcoreapp3.1\Enumerações(enum).pdb

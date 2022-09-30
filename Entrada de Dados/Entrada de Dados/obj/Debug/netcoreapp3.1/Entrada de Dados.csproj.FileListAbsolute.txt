@@ -1,0 +1,11 @@
+D:\Users\lucas.lara\source\repos\Entrada de Dados\Entrada de Dados\bin\Debug\netcoreapp3.1\Entrada de Dados.exe
+D:\Users\lucas.lara\source\repos\Entrada de Dados\Entrada de Dados\bin\Debug\netcoreapp3.1\Entrada de Dados.deps.json
+D:\Users\lucas.lara\source\repos\Entrada de Dados\Entrada de Dados\bin\Debug\netcoreapp3.1\Entrada de Dados.runtimeconfig.json
+D:\Users\lucas.lara\source\repos\Entrada de Dados\Entrada de Dados\bin\Debug\netcoreapp3.1\Entrada de Dados.runtimeconfig.dev.json
+D:\Users\lucas.lara\source\repos\Entrada de Dados\Entrada de Dados\bin\Debug\netcoreapp3.1\Entrada de Dados.dll
+D:\Users\lucas.lara\source\repos\Entrada de Dados\Entrada de Dados\bin\Debug\netcoreapp3.1\Entrada de Dados.pdb
+D:\Users\lucas.lara\source\repos\Entrada de Dados\Entrada de Dados\obj\Debug\netcoreapp3.1\Entrada de Dados.AssemblyInfoInputs.cache
+D:\Users\lucas.lara\source\repos\Entrada de Dados\Entrada de Dados\obj\Debug\netcoreapp3.1\Entrada de Dados.AssemblyInfo.cs
+D:\Users\lucas.lara\source\repos\Entrada de Dados\Entrada de Dados\obj\Debug\netcoreapp3.1\Entrada de Dados.dll
+D:\Users\lucas.lara\source\repos\Entrada de Dados\Entrada de Dados\obj\Debug\netcoreapp3.1\Entrada de Dados.pdb
+D:\Users\lucas.lara\source\repos\Entrada de Dados\Entrada de Dados\obj\Debug\netcoreapp3.1\Entrada de Dados.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\Users\lucas.lara\source\repos\Point\Point\bin\Debug\netcoreapp3.1\Point.exe
+D:\Users\lucas.lara\source\repos\Point\Point\bin\Debug\netcoreapp3.1\Point.deps.json
+D:\Users\lucas.lara\source\repos\Point\Point\bin\Debug\netcoreapp3.1\Point.runtimeconfig.json
+D:\Users\lucas.lara\source\repos\Point\Point\bin\Debug\netcoreapp3.1\Point.runtimeconfig.dev.json
+D:\Users\lucas.lara\source\repos\Point\Point\bin\Debug\netcoreapp3.1\Point.dll
+D:\Users\lucas.lara\source\repos\Point\Point\bin\Debug\netcoreapp3.1\Point.pdb
+D:\Users\lucas.lara\source\repos\Point\Point\obj\Debug\netcoreapp3.1\Point.csprojAssemblyReference.cache
+D:\Users\lucas.lara\source\repos\Point\Point\obj\Debug\netcoreapp3.1\Point.AssemblyInfoInputs.cache
+D:\Users\lucas.lara\source\repos\Point\Point\obj\Debug\netcoreapp3.1\Point.AssemblyInfo.cs
+D:\Users\lucas.lara\source\repos\Point\Point\obj\Debug\netcoreapp3.1\Point.dll
+D:\Users\lucas.lara\source\repos\Point\Point\obj\Debug\netcoreapp3.1\Point.pdb

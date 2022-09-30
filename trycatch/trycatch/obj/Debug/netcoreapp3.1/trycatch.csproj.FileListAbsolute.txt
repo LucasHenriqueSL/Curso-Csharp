@@ -1,0 +1,10 @@
+D:\Users\lucas.lara\source\repos\trycatch\trycatch\bin\Debug\netcoreapp3.1\trycatch.exe
+D:\Users\lucas.lara\source\repos\trycatch\trycatch\bin\Debug\netcoreapp3.1\trycatch.deps.json
+D:\Users\lucas.lara\source\repos\trycatch\trycatch\bin\Debug\netcoreapp3.1\trycatch.runtimeconfig.json
+D:\Users\lucas.lara\source\repos\trycatch\trycatch\bin\Debug\netcoreapp3.1\trycatch.runtimeconfig.dev.json
+D:\Users\lucas.lara\source\repos\trycatch\trycatch\bin\Debug\netcoreapp3.1\trycatch.dll
+D:\Users\lucas.lara\source\repos\trycatch\trycatch\bin\Debug\netcoreapp3.1\trycatch.pdb
+D:\Users\lucas.lara\source\repos\trycatch\trycatch\obj\Debug\netcoreapp3.1\trycatch.AssemblyInfoInputs.cache
+D:\Users\lucas.lara\source\repos\trycatch\trycatch\obj\Debug\netcoreapp3.1\trycatch.AssemblyInfo.cs
+D:\Users\lucas.lara\source\repos\trycatch\trycatch\obj\Debug\netcoreapp3.1\trycatch.dll
+D:\Users\lucas.lara\source\repos\trycatch\trycatch\obj\Debug\netcoreapp3.1\trycatch.pdb

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>APIv2</name>
+    </assembly>
+    <members>
+        <member name="M:APIv2.Controllers.UsuarioController.Logar(APIv2.Models.Usuarios.LoginViewModelInput)">
+            <summary>
+            teste    
+             </summary>
+             <param name="loginViewModelInput"></param>
+             <returns></returns>
+        </member>
+    </members>
+</doc>

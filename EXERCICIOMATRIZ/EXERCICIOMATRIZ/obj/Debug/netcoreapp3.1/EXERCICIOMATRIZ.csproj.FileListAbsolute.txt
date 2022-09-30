@@ -1,0 +1,11 @@
+D:\Users\lucas.lara\source\repos\EXERCICIOMATRIZ\EXERCICIOMATRIZ\bin\Debug\netcoreapp3.1\EXERCICIOMATRIZ.exe
+D:\Users\lucas.lara\source\repos\EXERCICIOMATRIZ\EXERCICIOMATRIZ\bin\Debug\netcoreapp3.1\EXERCICIOMATRIZ.deps.json
+D:\Users\lucas.lara\source\repos\EXERCICIOMATRIZ\EXERCICIOMATRIZ\bin\Debug\netcoreapp3.1\EXERCICIOMATRIZ.runtimeconfig.json
+D:\Users\lucas.lara\source\repos\EXERCICIOMATRIZ\EXERCICIOMATRIZ\bin\Debug\netcoreapp3.1\EXERCICIOMATRIZ.runtimeconfig.dev.json
+D:\Users\lucas.lara\source\repos\EXERCICIOMATRIZ\EXERCICIOMATRIZ\bin\Debug\netcoreapp3.1\EXERCICIOMATRIZ.dll
+D:\Users\lucas.lara\source\repos\EXERCICIOMATRIZ\EXERCICIOMATRIZ\bin\Debug\netcoreapp3.1\EXERCICIOMATRIZ.pdb
+D:\Users\lucas.lara\source\repos\EXERCICIOMATRIZ\EXERCICIOMATRIZ\obj\Debug\netcoreapp3.1\EXERCICIOMATRIZ.csprojAssemblyReference.cache
+D:\Users\lucas.lara\source\repos\EXERCICIOMATRIZ\EXERCICIOMATRIZ\obj\Debug\netcoreapp3.1\EXERCICIOMATRIZ.AssemblyInfoInputs.cache
+D:\Users\lucas.lara\source\repos\EXERCICIOMATRIZ\EXERCICIOMATRIZ\obj\Debug\netcoreapp3.1\EXERCICIOMATRIZ.AssemblyInfo.cs
+D:\Users\lucas.lara\source\repos\EXERCICIOMATRIZ\EXERCICIOMATRIZ\obj\Debug\netcoreapp3.1\EXERCICIOMATRIZ.dll
+D:\Users\lucas.lara\source\repos\EXERCICIOMATRIZ\EXERCICIOMATRIZ\obj\Debug\netcoreapp3.1\EXERCICIOMATRIZ.pdb

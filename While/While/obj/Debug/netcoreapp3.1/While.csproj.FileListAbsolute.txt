@@ -1,0 +1,11 @@
+D:\Users\lucas.lara\source\repos\While\While\bin\Debug\netcoreapp3.1\While.exe
+D:\Users\lucas.lara\source\repos\While\While\bin\Debug\netcoreapp3.1\While.deps.json
+D:\Users\lucas.lara\source\repos\While\While\bin\Debug\netcoreapp3.1\While.runtimeconfig.json
+D:\Users\lucas.lara\source\repos\While\While\bin\Debug\netcoreapp3.1\While.runtimeconfig.dev.json
+D:\Users\lucas.lara\source\repos\While\While\bin\Debug\netcoreapp3.1\While.dll
+D:\Users\lucas.lara\source\repos\While\While\bin\Debug\netcoreapp3.1\While.pdb
+D:\Users\lucas.lara\source\repos\While\While\obj\Debug\netcoreapp3.1\While.csprojAssemblyReference.cache
+D:\Users\lucas.lara\source\repos\While\While\obj\Debug\netcoreapp3.1\While.AssemblyInfoInputs.cache
+D:\Users\lucas.lara\source\repos\While\While\obj\Debug\netcoreapp3.1\While.AssemblyInfo.cs
+D:\Users\lucas.lara\source\repos\While\While\obj\Debug\netcoreapp3.1\While.dll
+D:\Users\lucas.lara\source\repos\While\While\obj\Debug\netcoreapp3.1\While.pdb

@@ -1,0 +1,11 @@
+D:\Users\lucas.lara\source\repos\AtividadeREF\AtividadeREF\bin\Debug\netcoreapp3.1\AtividadeREF.exe
+D:\Users\lucas.lara\source\repos\AtividadeREF\AtividadeREF\bin\Debug\netcoreapp3.1\AtividadeREF.deps.json
+D:\Users\lucas.lara\source\repos\AtividadeREF\AtividadeREF\bin\Debug\netcoreapp3.1\AtividadeREF.runtimeconfig.json
+D:\Users\lucas.lara\source\repos\AtividadeREF\AtividadeREF\bin\Debug\netcoreapp3.1\AtividadeREF.runtimeconfig.dev.json
+D:\Users\lucas.lara\source\repos\AtividadeREF\AtividadeREF\bin\Debug\netcoreapp3.1\AtividadeREF.dll
+D:\Users\lucas.lara\source\repos\AtividadeREF\AtividadeREF\bin\Debug\netcoreapp3.1\AtividadeREF.pdb
+D:\Users\lucas.lara\source\repos\AtividadeREF\AtividadeREF\obj\Debug\netcoreapp3.1\AtividadeREF.csprojAssemblyReference.cache
+D:\Users\lucas.lara\source\repos\AtividadeREF\AtividadeREF\obj\Debug\netcoreapp3.1\AtividadeREF.AssemblyInfoInputs.cache
+D:\Users\lucas.lara\source\repos\AtividadeREF\AtividadeREF\obj\Debug\netcoreapp3.1\AtividadeREF.AssemblyInfo.cs
+D:\Users\lucas.lara\source\repos\AtividadeREF\AtividadeREF\obj\Debug\netcoreapp3.1\AtividadeREF.dll
+D:\Users\lucas.lara\source\repos\AtividadeREF\AtividadeREF\obj\Debug\netcoreapp3.1\AtividadeREF.pdb

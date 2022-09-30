@@ -1,0 +1,11 @@
+D:\Users\lucas.lara\source\repos\DesafioAluno\DesafioAluno\bin\Debug\netcoreapp3.1\DesafioAluno.exe
+D:\Users\lucas.lara\source\repos\DesafioAluno\DesafioAluno\bin\Debug\netcoreapp3.1\DesafioAluno.deps.json
+D:\Users\lucas.lara\source\repos\DesafioAluno\DesafioAluno\bin\Debug\netcoreapp3.1\DesafioAluno.runtimeconfig.json
+D:\Users\lucas.lara\source\repos\DesafioAluno\DesafioAluno\bin\Debug\netcoreapp3.1\DesafioAluno.runtimeconfig.dev.json
+D:\Users\lucas.lara\source\repos\DesafioAluno\DesafioAluno\bin\Debug\netcoreapp3.1\DesafioAluno.dll
+D:\Users\lucas.lara\source\repos\DesafioAluno\DesafioAluno\bin\Debug\netcoreapp3.1\DesafioAluno.pdb
+D:\Users\lucas.lara\source\repos\DesafioAluno\DesafioAluno\obj\Debug\netcoreapp3.1\DesafioAluno.csprojAssemblyReference.cache
+D:\Users\lucas.lara\source\repos\DesafioAluno\DesafioAluno\obj\Debug\netcoreapp3.1\DesafioAluno.AssemblyInfoInputs.cache
+D:\Users\lucas.lara\source\repos\DesafioAluno\DesafioAluno\obj\Debug\netcoreapp3.1\DesafioAluno.AssemblyInfo.cs
+D:\Users\lucas.lara\source\repos\DesafioAluno\DesafioAluno\obj\Debug\netcoreapp3.1\DesafioAluno.dll
+D:\Users\lucas.lara\source\repos\DesafioAluno\DesafioAluno\obj\Debug\netcoreapp3.1\DesafioAluno.pdb

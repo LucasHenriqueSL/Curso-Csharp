@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Medidas triângulo/1.0.0": {
+        "runtime": {
+          "Medidas triângulo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Medidas triângulo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

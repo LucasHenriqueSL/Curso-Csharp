@@ -1,0 +1,11 @@
+D:\Users\lucas.lara\source\repos\FuncoesLegaisSTRING\FuncoesLegaisSTRING\bin\Debug\netcoreapp3.1\FuncoesLegaisSTRING.exe
+D:\Users\lucas.lara\source\repos\FuncoesLegaisSTRING\FuncoesLegaisSTRING\bin\Debug\netcoreapp3.1\FuncoesLegaisSTRING.deps.json
+D:\Users\lucas.lara\source\repos\FuncoesLegaisSTRING\FuncoesLegaisSTRING\bin\Debug\netcoreapp3.1\FuncoesLegaisSTRING.runtimeconfig.json
+D:\Users\lucas.lara\source\repos\FuncoesLegaisSTRING\FuncoesLegaisSTRING\bin\Debug\netcoreapp3.1\FuncoesLegaisSTRING.runtimeconfig.dev.json
+D:\Users\lucas.lara\source\repos\FuncoesLegaisSTRING\FuncoesLegaisSTRING\bin\Debug\netcoreapp3.1\FuncoesLegaisSTRING.dll
+D:\Users\lucas.lara\source\repos\FuncoesLegaisSTRING\FuncoesLegaisSTRING\bin\Debug\netcoreapp3.1\FuncoesLegaisSTRING.pdb
+D:\Users\lucas.lara\source\repos\FuncoesLegaisSTRING\FuncoesLegaisSTRING\obj\Debug\netcoreapp3.1\FuncoesLegaisSTRING.csprojAssemblyReference.cache
+D:\Users\lucas.lara\source\repos\FuncoesLegaisSTRING\FuncoesLegaisSTRING\obj\Debug\netcoreapp3.1\FuncoesLegaisSTRING.AssemblyInfoInputs.cache
+D:\Users\lucas.lara\source\repos\FuncoesLegaisSTRING\FuncoesLegaisSTRING\obj\Debug\netcoreapp3.1\FuncoesLegaisSTRING.AssemblyInfo.cs
+D:\Users\lucas.lara\source\repos\FuncoesLegaisSTRING\FuncoesLegaisSTRING\obj\Debug\netcoreapp3.1\FuncoesLegaisSTRING.dll
+D:\Users\lucas.lara\source\repos\FuncoesLegaisSTRING\FuncoesLegaisSTRING\obj\Debug\netcoreapp3.1\FuncoesLegaisSTRING.pdb
